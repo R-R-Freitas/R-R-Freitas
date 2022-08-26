@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Rodrigo</h1>
 <h3 align="center">Cada vez mais buscando a prática e o aprendizado contínuo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-r-freitas&label=Profile%20views&color=0e75b6&style=flat" alt="r-r-freitas" /> </p>
-
 - E-mail para contato: **rodrigoaz8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +14,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=r-r-freitas&show_icons=true&locale=en" alt="r-r-freitas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-r-freitas&show_icons=true&locale=en&layout=compact" alt="r-r-freitas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-r-freitas&show_icons=true&locale=en&layout=compact" alt="r-r-freitas" /></p>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-r-freitas&label=Profile%20views&color=0e75b6&style=flat" alt="r-r-freitas" /> </p>
