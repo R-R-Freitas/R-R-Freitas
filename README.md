@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Rodrigo</h1>
-<h3 align="center">Cada vez mais buscando a prática e o aprendizado contínuo</h3>
+<h3 align="center">Desenvolvedor web - Full Stack</h3>
 
 - E-mail para contato: **rodrigoaz8@gmail.com**
 
