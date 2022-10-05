@@ -3,6 +3,13 @@
 
 - E-mail para contato: **rodrigoaz8@gmail.com**
 --------
+  
+<p>Dev, gamer(atividade suspensa), pai... Esse sou eu.</p>
+  
+<p>Tenho poucas paixões, mas as que tenho são pra valer. Por isso saí de uma carreira estável pra virar dev. Se pra você isso não parece loucura, então me manda um pedido de conexão!</p>  
+  
+--------
+  
 <table align="center"><td><h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rodrigo-rafael-freitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-rafael-freitas" height="40" width="40" /></a>&nbsp;
