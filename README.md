@@ -6,7 +6,7 @@
   
 <p>Dev, gamer(atividade suspensa), pai... Esse sou eu.</p>
   
-<p>Tenho poucas paixões, mas as que tenho são pra valer. Por isso saí de uma carreira estável pra virar dev. Se pra você isso não parece loucura, então me manda um pedido de conexão!</p>  
+<p>Tenho poucas paixões, mas as que tenho são pra valer. Por isso saí de uma carreira estável pra virar dev. Se pra você isso não parece loucura, dá um follow ou manda um e-mail!</p>  
   
 --------
   
